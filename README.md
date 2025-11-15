@@ -122,7 +122,3 @@ counter.reset();     // Counter reset: 0
 
 -----
 
-```
-
-Do you have any specific code examples you would like me to add to this README, or should we move on to the next topic like **Inheritance**?
-```
