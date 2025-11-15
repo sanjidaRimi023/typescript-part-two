@@ -39,6 +39,7 @@ console.log(p1.age);  // 25
 
 - constructor runs automatically when an object is created.
 - this refers to the current instance of the class.
+
 ---
 
 ## Methods
@@ -72,6 +73,8 @@ p2.haveBirthday();  // Happy Birthday! Bob is now 31 years old.
 -You always use this.propertyName to refer to the current object’s properties.
 
 ---
+
+---
 ## The this Keyword
 
 #### In classes, this always points to the current instance of the class .It allows methods to access or modify the object’s properties.
@@ -95,3 +98,4 @@ const counter = new Counter();
 counter.increment(); // 1
 counter.increment(); // 2
 counter.reset();     // Counter reset: 0
+---
