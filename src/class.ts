@@ -10,3 +10,7 @@ class Student{
         this.roll=roll
     }
 }
+
+
+const student1 = new Student('rimi',"cst", 7119909)
+console.log(student1.department);
